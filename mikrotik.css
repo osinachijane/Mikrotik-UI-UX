@@ -1,0 +1,24 @@
+/*.active{
+	border-bottom: 2px solid blue;
+	background-color: white;
+	width: 60px;
+}*/
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+	background-color: white;
+	min-width: 8.063;
+}
+
+.navbar-nav>li>a {
+	padding-bottom: 1px;
+}
+
+.jn{
+	padding-top: 120px; 
+	font-size:36px; 
+	font-family: "Open Sans", sans-serif; 
+	font-weight: lighter; 
+	color: rgb(98, 98, 98);
+}
+.thumbnail {
+	border: transparent;
+}
